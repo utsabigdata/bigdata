@@ -1,6 +1,0 @@
-Login to your Hadoop cluster <http://149.165.168.141:8080> 
-Write a Hive program to find the following information from foodmart Database <Table: sales_fact_dec_1998>: 
-Question: Top selling products
-
-Print the SQL Hive Program (hard copy) and add your name and student ID.
-Due Date: 10/16/2017
